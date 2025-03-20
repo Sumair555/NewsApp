@@ -1,4 +1,4 @@
-package com.example.newsapp.ui.theme
+package com.example.gfg.ui.theme
 
 import android.app.Activity
 import android.os.Build
